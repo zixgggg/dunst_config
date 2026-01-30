@@ -1,5 +1,6 @@
 [global]
     font = "DejaVu Sans Mono 15, Noto Sans CJK TC 15"
+    format = "<b>%s</b>\n%b"
 [urgency_low]
     background = "#111111"
     foreground = "#00d300"
